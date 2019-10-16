@@ -1,0 +1,96 @@
+body {
+  position: absolute;
+  background-size: contain;
+
+  background:url("image/dark-wood.jpg");
+
+font-family: Georgia;
+}
+.header
+{
+  text-align:center;
+  display: block;
+  margin-left: 6%;
+  margin-right: auto;
+  margin-top: 2%;
+  margin-bottom: 0%;
+  background-image: :no-repeat;
+}
+.navigation
+{
+padding: 0%;
+width: 70%;
+height: 4%;
+
+  background:#b2beb5;
+margin-bottom: 100%;
+margin-top: 0%;
+  display: block;
+  margin-left: 18%;
+  margin-right: auto;
+padding: 0px;
+
+}
+li{
+  float:left;
+}
+li a {
+ display: block;
+ color: white;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+li a:hover {
+ color: #000000;
+}
+.b{
+  text-align:center;
+  width: 100%;
+
+    margin-bottom: 0%;
+    display: block;
+    margin-left: 0%;
+    margin-right: auto;
+    padding: 0px;
+    background: white;
+    height: 100%;
+  background:white;
+  height: 500px;
+  margin-top: 1%
+
+}
+
+.pic1{
+  margin-left: 15;
+font-size: 13px;
+color: #637567;
+text-align: left;
+}
+.section2
+{
+  margin-left: 80;
+  margin-top:10px;
+   text-align: left;
+}
+.section3{
+  margin-left: 0%;
+  margin-top:0%;
+  margin-bottom: 33%;
+text-align: left;
+  color: #F34454;
+}
+.add{
+  color:black;
+
+}
+.foot{
+  clear:both;
+    color: white;
+    font-size: 70%;
+    padding-left: 3%;
+    background: #b2beb5;
+    height: 30px;
+
+}
+}
