@@ -1,0 +1,127 @@
+.logo{
+ position: absolute;
+ top: 35px;
+ left:350px;
+}
+.im1{
+ position: absolute;
+ top: 0px;
+ left:580px;
+}
+.im2{
+ position: absolute;
+ top: 0px;
+ left:328px;
+}
+.im3{
+ position: absolute;
+ top: 143px;
+ left:451px;
+}
+.heading{
+  position: absolute;
+  top: 21px;
+  left: 944px;
+  color: #9E9E9E;
+}
+.heading2{
+  position: absolute;
+    top: 111px;
+    left: 822px;
+    color: #9E9E9E;
+    font-size: 30px;
+    font-family:Arial;
+}
+.date{
+  position: absolute;
+    top: 200px;
+    left: 1050px;
+    color: #9E9E9E;
+    font-family: Arial;
+    font-size: 10px;
+}
+.write1{
+    position: absolute;
+    top: 230px;
+    left: 1050px;
+  color: #FFFFFF;
+    font-family: Times new Roman;
+    font-size: 15px;
+}
+.write11{
+  position: absolute;
+  top: 500px;
+  left: 1050px;
+color: #9E9E9E;
+  font-family: Arial;
+  font-size: 15px;
+}
+.hr1{
+  position: absolute;
+    top: 583px;
+    left: 324px;
+    border-top: 1px solid white;
+    width: 1029px;
+}
+.hr1heading{
+  position: absolute;
+    top: 13px;
+    left: -2px;
+    color: #9E9E9E;
+    font-size: 22px;
+    font-family: Arial;
+}
+.img1{
+  position: absolute;
+  top: 685px;
+  left: 303px;
+
+}
+.img2{
+  position: absolute;
+  top: 684px;
+  left: 575px;
+}
+.img3{
+  position: absolute;
+  top: 685px;
+  left: 835px;
+}
+.img4{
+  position: absolute;
+  top: 685px;
+    left: 1100px;
+}
+.img1writing{
+  position: absolute;
+    top: 835px;
+    left: 296px;
+    color: #9E9E9E;
+    font-size: 13px;
+    font-weight: bold;
+    
+}
+.img2writing{
+    position: absolute;
+    top: 835px;
+    left: 578px;
+    color: #9E9E9E;
+    font-size: 13px;
+    font-weight: bold;
+}
+.img3writing{
+    position: absolute;
+    top: 835px;
+    left: 855px;
+    color: #9E9E9E;
+    font-size: 13px;
+    font-weight: bold;
+}
+.img4writing{
+    position: absolute;
+    top: 835px;
+    left: 1106px;
+    color: #9E9E9E;
+    font-size: 13px;
+    font-weight: bold;
+}
