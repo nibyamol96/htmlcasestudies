@@ -1,0 +1,263 @@
+.on{
+position:absolute;
+top:10px;
+left:230px;
+}
+h1.h12{
+ position:absolute ;
+ top: 175px;
+ left: 230px;
+ font-weight: 600;
+ line-height: 72px;
+ font-size:48px;
+ color: #000000;
+ font-family: sans-serif;
+ font-weight: bold;
+}
+.p1{
+   font-family: sans-serif;
+   font-size: 16px;
+   line-height: 27px;
+   position: absolute;
+   top: 253px;
+   left: 230px;
+   font-family: NunitoSans-Bold;
+font-size: 18px;
+color: #000000;
+line-height: 36px;
+}
+.arrow{
+  position: absolute;
+  top: 130px;
+  left: 230px;
+  color: black;
+  text-decoration: none;
+
+}
+.p3{
+ font-family: sans-serif;
+ line-height: 25px;
+ font-size: 17px;
+ position: absolute;
+ top: 680px;
+ left: 230px;
+}
+.p4{
+ font-family: sans-serif;
+ line-height: 25px;
+ font-size: 17px;
+ position: absolute;
+ top: 870px;
+ left: 230px;
+}
+.t1{
+ position: absolute;
+ top: 920px;
+ left: 230px;
+ text-align: center;
+}
+.t2{
+ position: absolute;
+ top: 1090px;
+ left: 230px;
+ text-align: center;
+}
+.row{
+ background-color: #F05136;
+}
+.p5{
+ position: absolute;
+ top: 1230px;
+ left: 230px;
+ font-style: italic;
+   font-size: 18px;
+   color: #696969;
+}
+.p6{
+ font-family: sans-serif;
+ line-height: 25px;
+ font-size: 17px;
+ position: absolute;
+ top: 1300px;
+ left: 230px;
+}
+.mapouter{
+ position:absolute;
+ top:1350px;
+ left:230px;
+ text-align:right;
+ height:500px;width:600px;
+ }
+ .gmap_canvas {
+   overflow:hidden;
+   background:none!important;
+   height:500px;
+   width:600px;
+   }
+   .address {
+    position: absolute;
+    top: -24px;
+    left: 610px;
+    text-align: left;
+    font-size:
+    font-family: NunitoSans-Bold;
+font-size: 18px;
+color: #000000;
+line-height: 27px;
+}
+.addr{
+  font-family: NunitoSans-Regular;
+font-size: 18px;
+color: #000000;
+line-height: 27px;
+  position:relative;
+top: -495px;
+left: 610px;
+text-align: left;
+}
+.head{
+
+    position: absolute;
+    top: 1888px;
+    left: 228px;
+    font-family: NunitoSans-Bold;
+    font-size: 18px;
+    color: #000000;
+    font-weight: bold;
+}
+.head1{
+  position: absolute;
+  top: 1920px;
+  left: 228px;
+  font-family: NunitoSans-Regular;
+font-size: 18px;
+color: #000000;
+line-height: 27px;
+}
+.head2{
+    position: absolute;
+  top: 2020px;
+  left: 228px;
+  font-family: NunitoSans-Bold;
+  font-size: 18px;
+  color: #000000;
+  font-weight: bold;
+}
+.head3{
+  position: absolute;
+  top: 2060px;
+  left: 228px;
+  font-family: NunitoSans-Regular;
+font-size: 18px;
+color: #000000;
+line-height: 27px;
+}
+.head4{
+  position: absolute;
+  top: 2233px;
+  left: 228px;
+  font-family: NunitoSans-Regular;
+  font-size: 18px;
+  color: #000000;
+  line-height: 27px;
+}
+.face{
+ position: absolute;
+top: 2417px;
+ left:230px;
+}
+.select{
+  border: 1px;
+     position: absolute;
+     top: 2350px;
+     left:1000px;
+}
+select{
+ border:1px;
+}
+.about{
+ font-family: sans-serif;
+ font-size: 20px;
+ text-decoration: underline;
+ position: relative;
+ top: 64px;
+    left: -25px;
+
+
+}
+.about1{
+ font-family: sans-serif;
+ font-size: 20px;
+ text-decoration: underline;
+ position: absolute;
+ top: 630px;
+
+
+}
+.grad{
+ position: absolute;
+ top:1800px;
+ left:1350px;
+}
+.shinu{
+ position: absolute;
+ top:2469px;
+ left:1330px;
+}
+.fa {
+ padding: 10px;
+ font-size: 10px;
+ width: 10px;
+ text-align: center;
+ text-decoration: none;
+ margin: 5px 2px;
+}
+.fa:hover {
+   opacity: 0.5;
+}
+.fa-facebook {
+  position: absolute;
+  top;2000px;
+  left: -25px;
+ background: #000000;
+ color: white;
+}
+.fa-twitter {
+  position: absolute;
+  top;2500px;
+  left: 93px;
+ background: #000000;
+ color: white;
+}
+.fa-linkedin {
+  position: absolute;
+  top;2000px;
+  left: 49px;
+ background: #000000;
+ color: white;
+}
+.fa-youtube {
+  position: absolute;
+  top;2000px;
+  left: 10px;
+ background: #000000;
+ color: white;
+}
+.anoop{
+ position: absolute;
+ top: 2579px;
+
+ left:700px;
+}
+.n{
+
+  position: absolute;
+      top: 73px;
+      left: -244px;
+}
+.xyz{
+  position: absolute;
+  top: 119px;
+  left: 25px;
+
+}

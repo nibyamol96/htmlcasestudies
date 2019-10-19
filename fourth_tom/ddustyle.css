@@ -1,0 +1,185 @@
+.on{
+position:absolute;
+top:10px;
+left:230px;
+}
+h1.h12{
+ position:absolute ;
+ top: 145px;
+ left: 230px;
+ font-weight: 600;
+ line-height: 72px;
+ font-size: 48px;
+ color: #F05136;
+ font-family: sans-serif;
+}
+.p1{
+   font-family: sans-serif;
+   font-size: 16px;
+   line-height: 27px;
+   position: absolute;
+   top: 320px;
+   left: 230px;
+}
+.p2{
+ position: absolute;
+ top:500px;
+ left: 230px;
+}
+.h21{
+ margin-left: 17%;
+ position: absolute;
+ top:50px;
+}
+.head{
+ position:absolute;
+ top: 590px;
+ left: 230px;
+}
+.project{
+  font-family: sans-serif;
+    position: absolute;
+    top: 698px;
+    left: 230px;
+    border-radius: 4px;
+    border: 2px solid #E4E4E4;
+    width: 50%;
+    height: 190px;
+    line-height: 25px;
+    background: #FAFAFA;
+}
+.write1{
+ text-align: left;
+ position:absolute;
+ top: 0px;
+ left:250px;
+ padding: 2%;
+}
+.an{
+ font-family: sans-serif;
+ position: absolute;
+ top: 636px;
+ left: 1030px;
+}
+.box{
+ font-family: sans-serif;
+ position: absolute;
+ top: 696px;
+ left: 1030px;
+ border-radius: 4px;
+ border: 2px solid #E4E4E4;
+ width: 30%;
+ height: 220px;
+ line-height: 25px;
+}
+.write2{
+ text-align: left;
+ background: #FAFAFA;
+ padding: 2%;
+ position: absolute;
+ top: -0px;
+}
+h1.h13{
+ position:absolute;
+ top:963px;
+ left:230px;
+}
+.im2{
+  position: absolute;
+     top: 64em;
+     left: 200px;
+}
+.box2{
+ font-family: sans-serif;
+ position: absolute;
+ top: 1042px;
+ left: 1000px;
+ border-radius: 4px;
+ border: 2px solid #E4E4E4;
+ background-color: white;
+ width: 30%;
+ height: 480px;
+ line-height: 25px;
+}
+.box21{
+ font-family: sans-serif;
+ position: absolute;
+ top: 1083px;
+ left: 340px;
+ line-height: 30px;
+ width: 40%;
+}
+.mar{
+ height: 400px;
+ position: absolute;
+ top: 1600px;
+ left:230px;
+}
+.face{
+ position: absolute;
+ top: 1855px;
+ left:230px;
+}
+.select{
+ position: absolute;
+ top: 1855px;
+ left:1080px;
+}
+select{
+ border:1px;
+}
+.about{
+ font-family: sans-serif;
+ font-size: 20px;
+ text-decoration: underline;
+ 
+
+}
+.grad{
+ position: absolute;
+ top:1800px;
+ left:1350px;
+}
+.shinu{
+ position: absolute;
+ top:1855px;
+ left:1330px;
+}
+.fa {
+ padding: 10px;
+ font-size: 10px;
+ width: 10px;
+ text-align: center;
+ text-decoration: none;
+ margin: 5px 2px;
+}
+.fa:hover {
+   opacity: 0.5;
+}
+.fa-facebook {
+ background: #000000;
+ color: white;
+}
+.fa-twitter {
+ background: #000000;
+ color: white;
+}
+.fa-linkedin {
+ background: #000000;
+ color: white;
+}
+.fa-youtube {
+ background: #000000;
+ color: white;
+}
+.anoop{
+ position: absolute;
+ top:2050px;
+ left:700px;
+}
+.n{
+
+  position: absolute;
+      top: 73px;
+      left: -244px;
+}
