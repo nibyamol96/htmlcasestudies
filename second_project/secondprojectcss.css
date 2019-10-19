@@ -15,19 +15,19 @@ font-family: Georgia;
   margin-top: 2%;
   margin-bottom: 0%;
   background-image: :no-repeat;
+  background-size: 20%;
 }
 .navigation
 {
 padding: 0%;
 width: 70%;
 height: 4%;
-
-  background:#b2beb5;
+background:#b2beb5;
 margin-bottom: 100%;
 margin-top: 0%;
-  display: block;
-  margin-left: 18%;
-  margin-right: auto;
+display: block;
+margin-left: 18%;
+margin-right: auto;
 padding: 0px;
 
 }
@@ -93,4 +93,6 @@ text-align: left;
     height: 30px;
 
 }
+.m{
+  background-size: 50%;
 }
