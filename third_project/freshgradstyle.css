@@ -1,0 +1,122 @@
+
+.black{
+  width:103%;
+  height: 757px;
+  background-color: black;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.im{
+  padding-left: 13%;
+}
+h2{
+  color: white;
+  padding-left: 20%;
+}
+p{
+  color: white;
+  font-size: 137%;
+  padding-left: 15%;
+}
+.b1{
+  width: 12%;
+
+  height:3em;
+  background-color: #50C878;
+  border-radius: 22px;
+  margin-top: 1%;
+  color: white;
+
+}
+.b2{
+  width: 12%;
+
+  height:3em;
+  background-color:white;
+  border-radius: 22px;
+  margin-top: 1%;
+  color: black;
+
+}
+.b3{
+  width: 15%;
+
+  height:3em;
+  background-color: #50C878;
+margin-right:  0%;
+margin-left: 45%;
+  margin-top: 1%;
+  color: white;
+    padding-left: 18px;
+}
+.b4{
+  width: 15%;
+
+  height:3em;
+  background-color: #50C878;
+margin-right:  0%;
+margin-left: 86%;
+  margin-top: -10%;
+  margin-bottom: 10em;
+  color: white;
+    padding-left: 18px;
+    padding-bottom: 0em;
+    padding-top: 42px;
+}
+a:hover {
+  background-color:green;
+}
+nav {
+clear: both;
+  color: #f5f5f5;
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #0bb76c;
+  height: 51px
+
+}
+nav ul {
+margin: 0px;
+padding: 5px 0px 5px 30px;
+}
+nav li {
+display: inline;
+}
+.a3{
+  border-radius:31px;
+  width:10%;
+  height: 3em;
+}
+.bu1{
+  width: 34%;
+    height: 3em;
+    background-color: white;
+    border-radius: 11px;
+    margin-top: 1%;
+    color: black;
+
+}
+.bu2{
+  width: 34%;
+    height: 3em;
+    background-color: white;
+    border-radius: 11px;
+    margin-top: 1%;
+    color: black;
+
+}
+.bu3{
+  width: 31%;
+    height: 3em;
+    background-color: white;
+    border-radius: 11px;
+    margin-top: 1%;
+    color: black;
+}
+thead{
+ background-color: #ddd;
+  border-bottom:1px solid #ccc;
+}
+.x:hover{
+  background-color: mediumspringgreen;
+}
